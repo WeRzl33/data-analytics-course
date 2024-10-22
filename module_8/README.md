@@ -30,7 +30,7 @@ _Est time to complete: ~1 hour_
 
 In this first video series you are introduced you to the instructor, provided an overview of what to expect from the course, will explore what makes Domo unique in the BI space. It'll cover the essentials of the Domo community, how it supports learning and collaboration, and compare Domo to other BI tools. Lastly, you'll have a brief tour of the Domo platform.
 
-- [ ] Watch this [video series 1.1 - 1.5](https://www.youtube.com/watch?v=tDxE5VO-dgI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=1) and mark when complete
+- [x] Watch this [video series 1.1 - 1.5](https://www.youtube.com/watch?v=tDxE5VO-dgI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=1) and mark when complete
 - [ ] Visit https://community-forums.domo.com/main - this is the Domo community forum where you can search and ask questions 
 
 ### Data Aquisition 
@@ -41,7 +41,7 @@ _Est time to complete: ~1 hour_
 
 In this series, you'll be introduced to Domo’s data connectors and explore how to bring data into the platform. You'll learn how to upload files, create webforms, and use email connectors to automate data flows. We’ll also cover hidden tables and how they can enhance data organization. Lastly, the section wraps up with a video summarizing key takeaways.
 
-- [ ] Watch this [video series 2.1 - 2.7](https://www.youtube.com/watch?v=RAcJJnGSS9Y&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=6) and mark when complete.
+- [x] Watch this [video series 2.1 - 2.7](https://www.youtube.com/watch?v=RAcJJnGSS9Y&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=6) and mark when complete.
 
 ### Data Transformation 
 
