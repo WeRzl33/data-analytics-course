@@ -86,4 +86,4 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
 
 ## Assignment #7 
 
-- [ ] Assignment #7 will be an in-class project at Domo HQ 🎉
+- [x] Assignment #7 will be an in-class project at Domo HQ 🎉
